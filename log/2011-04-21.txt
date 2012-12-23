@@ -1,0 +1,20 @@
+[21.04.2011-1:25:15] Application start
+[21.04.2011-1:25:15] Load settings succificully
+[21.04.2011-1:25:15] Start monitoring log-file
+[21.04.2011-1:25:16] Monitoring file 2011-04-15-18-02-server-in0.log
+[21.04.2011-1:25:20] Application closed by user
+[21.04.2011-1:25:30] Application start
+[21.04.2011-1:25:30] Load settings succificully
+[21.04.2011-1:25:30] Start monitoring log-file
+[21.04.2011-1:25:31] Monitoring file 2011-04-15-18-02-server-in0.log
+[21.04.2011-1:25:57] Application closed by user
+[21.04.2011-1:27:02] Application start
+[21.04.2011-1:27:02] Load settings succificully
+[21.04.2011-1:27:02] Start monitoring log-file
+[21.04.2011-1:27:03] Monitoring file 2011-04-15-18-02-server-in0.log
+[21.04.2011-1:27:44] Application closed by user
+[21.04.2011-10:07:36] Application start
+[21.04.2011-10:07:36] Load settings succificully
+[21.04.2011-10:07:36] Start monitoring log-file
+[21.04.2011-10:07:37] Monitoring file 2011-04-15-18-02-server-in0.log
+[21.04.2011-10:08:07] Application closed by user
