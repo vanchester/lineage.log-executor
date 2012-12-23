@@ -1,5 +1,0 @@
-[30.08.2011-17:34:20] Application start
-[30.08.2011-17:34:20] Load settings succificully
-[30.08.2011-17:34:20] Start monitoring log-file
-[30.08.2011-17:34:21] Monitoring file 2011-04-15-18-02-server-in0.log
-[30.08.2011-17:34:38] Application closed by user
